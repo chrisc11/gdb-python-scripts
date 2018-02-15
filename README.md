@@ -7,3 +7,8 @@ could not find anything. If you know of a repo that provides similar functionali
 command you see, do let me know!
 
 
+# Available Commands
+
+## Newlib
+
+`newlib heapdump` - Pretty prints the blocks in a newlib libc heap
